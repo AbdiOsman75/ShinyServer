@@ -125,7 +125,7 @@ ui <- fluidPage(
 
   server <- function(input, output) {
     output$Predicted <- renderText({
-      paste("Predicted Value of £", logic(input))
+      paste("Predicted Value of Â£", logic(input))
     })
 
     # output$Table <- renderTable({
