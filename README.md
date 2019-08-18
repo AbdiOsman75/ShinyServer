@@ -1,5 +1,4 @@
-# ShinyServer
-Iowa sales application
+# Iowa sales application
 
 # [Shiny App Website](http://35.246.21.243)
 This is the link to the shiny app.
