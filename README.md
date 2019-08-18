@@ -12,12 +12,12 @@ To replicate this you need:
 3. [MySQL](https://dev.mysql.com/downloads/)
 
 ### **R packages** Repalce the library() with install.packages to install initally.
-1.library(dplyr)
-2.library(randomForest)
-3.library(shiny)
-4.library(RMySQL)
-5.library(dbConnect)
-6.library(shinydashboard)
+1. library(dplyr)
+2. library(randomForest)
+3. library(shiny)
+4. library(RMySQL)
+5. library(dbConnect)
+6. library(shinydashboard)
 
 # Application
 ## How to use 
